@@ -1,0 +1,5 @@
+
+train: datasets/person/images/train
+val: datasets/person/images/train   # For demo, use train as val (you can split)
+nc: 1
+names: ["person"]
